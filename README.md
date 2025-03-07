@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/thatkid_mikey" target="blank"><img src="https://img.shields.io/twitter/follow/thatkid_mikey?logo=twitter&style=for-the-badge" alt="thatkid_mikey" /></a> </p>
 
-- 🔭 I’m currently working on **A micro-loans platform to provide solutions to Financial Inclusion.**
+- 🔭 I’m currently working on **A micro-loans platform to provide Financial Inclusion in the community.**
 
 - 🌱 I’m currently learning **API,Node.js and React.js from Dave Gray online tutorial.**
 
