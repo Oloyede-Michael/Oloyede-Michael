@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Michael Oloyede, ♤Mikky code💻</h1>
+<h1 align="center">Hi 👋, I'm Michael Oloyede</h1>
 <h3 align="center">A passionate Full-stack web developer and a python developer from Nigeria.</h3>
 
 
